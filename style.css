@@ -1,0 +1,45 @@
+ul{
+    list-style-type:none;
+    display: flex;
+    justify-content: space-evenly;
+    color:white;
+    position:center;
+    border-radius: 50px;
+
+   
+}
+.juice{
+    position: absolute;
+    height: 100%;
+    width:100%;
+    z-index: -1;
+   
+}
+li{
+    margin-right: 40px;
+   
+    padding: 100px ;
+    border-radius: 50px;
+}
+h1{
+    text-align: center;
+    color: rgb(190, 15, 73);
+}
+button{
+    font-size: 40px;
+    border-color: rgb(2, 36, 41);
+    border-width: 10px;
+    border-style: double;
+    border-radius: 10px;
+}
+td{
+    color: rgb(112, 6, 109);
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    height: 200px;
+    width: 200px;
+    
+}
